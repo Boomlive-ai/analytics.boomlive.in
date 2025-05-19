@@ -1,0 +1,8 @@
+{
+  "access_token": "BQAJ0DZtGVHb2t6i-1KK52MEkjLDJRS37tZ1FsDQrVu2bp2KDgXFZNKw5wJbt5BRw2qIs8lrqeItL9GCJ58aaE1i4h3Be0JYO1RIe_O86hHbqwT5l3IAxOtmGv5E5PUNX9XkiiSxMDwAHreXHjqlURmE57HRuK6No9Cl3nV5-NeQY_1DX5uvr61MC6qUXYieg8dA4v5Nq6VLrxJOKtbOrC4o8q04sM8ccIja25dNwfCfy463Ultb3yQwKf7RsgidlKF9SXb7CHqCWknRtg_N8uThZc2pCOWaK1yzKuZS",
+  "token_type": "Bearer",
+  "expires_in": 3600,
+  "refresh_token": "AQArCEPcYMC1zEY29hwN_o29V659-JoewWOaiaa9S953SJklBNzPVpf3EIcbDfZCyTW-DMPuCdKfvrluTBvItD__bgsAu5HEOQIwu4ASytVQFFXZwzJfhlLdV9HSiSWjr1I",
+  "scope": "user-read-private user-read-email user-top-read user-read-recently-played user-library-read user-follow-read playlist-read-private playlist-read-collaborative user-read-playback-state user-read-currently-playing",
+  "expires_at": 1747327516
+}
