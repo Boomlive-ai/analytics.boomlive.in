@@ -7,7 +7,7 @@ load_dotenv()
 
 SPOTIFY_CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
-SPOTIFY_REDIRECT_URI = os.getenv("SPOTIFY_REDIRECT_URI", "https://5940-110-227-192-240.ngrok-free.app/auth/callback/spotify")
+SPOTIFY_REDIRECT_URI = os.getenv("SPOTIFY_REDIRECT_URI", "https://f0k0kw0go4g0ko4o0gggoscw.vps.boomlive.in/auth/callback/spotify")
 
 def get_spotify_auth_url():
     """Generate Spotify OAuth authorization URL"""

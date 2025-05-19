@@ -12,7 +12,7 @@ def create_google_oauth():
     """Create and configure Google OAuth flow"""
     client_id = os.getenv("GOOGLE_CLIENT_ID")
     client_secret = os.getenv("GOOGLE_CLIENT_SECRET")
-    redirect_uri = os.getenv("REDIRECT_URI", "https://5940-110-227-192-240.ngrok-free.app/auth/callback/google")
+    redirect_uri = os.getenv("REDIRECT_URI", "https://f0k0kw0go4g0ko4o0gggoscw.vps.boomlive.in/auth/callback/google")
     
     # Using client_secrets dict instead of file
     client_config = {

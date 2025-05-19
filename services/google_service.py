@@ -10,7 +10,7 @@ load_dotenv()
 
 GOOGLE_CLIENT_ID = os.getenv("GOOGLE_CLIENT_ID")
 GOOGLE_CLIENT_SECRET = os.getenv("GOOGLE_CLIENT_SECRET")
-REDIRECT_URI = os.getenv("REDIRECT_URI", "https://5940-110-227-192-240.ngrok-free.app/auth/callback/google")
+REDIRECT_URI = os.getenv("REDIRECT_URI", "https://f0k0kw0go4g0ko4o0gggoscw.vps.boomlive.in/auth/callback/google")
 
 def create_google_oauth_flow():
     """Create and configure Google OAuth flow"""
